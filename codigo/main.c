@@ -33,3 +33,4 @@ escolha = toupper(escolha);
  }
   return 0;
 }
+//Função de iniciar o jogo?
