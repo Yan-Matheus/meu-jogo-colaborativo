@@ -1,1 +1,0 @@
-Duas simples escolhas
